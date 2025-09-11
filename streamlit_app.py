@@ -52,4 +52,4 @@ if ingredients_list:
 
 
 
-st.text(smoothiefroot_response.json())
+#st.text(smoothiefroot_response.json())
